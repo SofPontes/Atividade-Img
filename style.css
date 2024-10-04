@@ -1,0 +1,14 @@
+*{
+   margin: auto;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.desenhos{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.desenhos img{
+  width: 18vw;
+  height: auto;
+}
